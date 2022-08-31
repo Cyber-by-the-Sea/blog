@@ -114,13 +114,13 @@ To enable google analytics, add following to your config file:
 
 ### 2.5 Logo and favicon
 
-You can replace the log in the top of each page and favicon with your own images. To do that put your own logo and favicon into the `images` directory of your website static directory, then named them `avatar.png` and `favicon.ico`. For example:
+You can replace the log in the top of each page and favicon with your own images. To do that put your own logo and favicon into the `images` directory of your website static directory, then named them `logo.png` and `favicon.ico`. For example:
 
 ```
 - content
 - static
 └── images
-    ├── avatar.png
+    ├── logo.png
     └── favicon.ico
 ```
 
