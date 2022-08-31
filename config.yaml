@@ -1,6 +1,6 @@
 baseURL: 'https://cyberbythesea.com/blog/'
 languageCode: en-us
-title: Cyber by the Sea
+title: CYBER BY THE SEA
 theme: hugo-theme-mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish), default 'en'
@@ -47,7 +47,7 @@ params:
   # Site Author
   author: Cyber by the Sea LLC
   # Author biography
-  bio: Blog
+  bio: blog
   # Site Description, used in HTML meat
   description: Cyber by the Sea Blog
 
